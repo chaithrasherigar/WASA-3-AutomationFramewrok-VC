@@ -18,6 +18,8 @@ public void readData()
 	
 	String PW=System.getProperty("password");
 	System.out.println(PW);
+	
+	System.out.println("hi");
 }
 	
 	
